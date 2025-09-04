@@ -41,6 +41,9 @@ O objetivo foi criar uma **página web institucional** para apresentar informaç
 ### 📝 Amostra do Primeiro Semestre
 ![Amostra Matriz](FecafWebSite/amostra_matiz.png)
 
+### Projetos e Corpo Docete
+(Ocultados por fins de direitos de imagem){"Mostra o rosto de individuos reais"}
+
 ### 📞 Contato
 ![Contato](FecafWebSite/Contato.png)
 
